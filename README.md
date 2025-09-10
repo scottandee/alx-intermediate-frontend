@@ -6,6 +6,8 @@ This repository contains my solutions and practice projects for the ALX Intermed
 
 2. **0x02-tailwind-css**: Hands-on projects with Tailwind CSS, covering layouts, navigation, flexbox, grid, and responsive image galleries.
 
+3. **0x03-sass_scss**: Introduction to SASS/SCSS, exploring variables, nesting, mixins, and partials to create modular and maintainable stylesheets.
+
 ## Technologies Used
 - HTML5 (Semantic HTML)
 - Tailwind CSS
